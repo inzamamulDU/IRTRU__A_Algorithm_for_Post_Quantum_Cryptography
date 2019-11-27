@@ -1,2 +1,2 @@
-# Improving-Efficiency-of-PQCrypto-Ex-NTRU
+# IRTRU__A_Algorithm_for_Post_Quantum_Cryptography
 Our objective is to develop or increase the efficiency of the existing algorithms. The most renowned algorithm to get rid of the post quantum cryptography is NTRU. In NTRU algorithm both time the complexity is O(n^2). That means NTRU requires n^2 time in encryption as well as in decryption. Our objective will be decrease the complexity while encrypting as well as decrypting. 
